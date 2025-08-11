@@ -14,7 +14,7 @@
 <h6 align="center"> <b> </b> </h6>
 <h1 align="center"> <b> Concurso Profesoral 2025 de la Facultad de Minas </b> </h1>
 <h2 align="center"> <b> Cátedra 0.2 --> Perfil C1_3010435 - Fundamentos de programación </b> </h2>
-<h2 align="center"> <b> Cátedra 0.2 --> Código de Clase </b> </h2>
+<h2 align="center"> <b> Código de Clase </b> </h2>
 <hr size=10 noshade color="gray">
 </p>
 <p>
