@@ -56,4 +56,17 @@ Desarrollar en el estudiante la capacidad de análisis necesario para abordar pr
 ## **Optimización de Condicionales**
 ### **DRY – Decision Chain – Ladder If-Else**
 *   El principio DRY (Don't Repeat Yourself), introducido por Dave Thomas y Andy Hunt en The Pragmatic Programmer (1999), establece que cada pieza de conocimiento o lógica en un sistema debe tener una única representación clara y autorizada. Su propósito es evitar la duplicación de código, reglas de negocio o información, reduciendo inconsistencias, errores y costos de mantenimiento. 
-*   Las decisiones en cascada o cadena (o decision chain, también conocida como ladder if-else simplificada) es una técnica de programación que organiza secuencias de condiciones de forma jerárquica y eficiente, usualmente de mayor a menor (o viceversa), para evitar comparaciones redundantes y mejorar la legibilidad del código. 
+*   Las decisiones en cascada o cadena (o decision chain, también conocida como ladder if-else simplificada) es una técnica de programación que organiza secuencias de condiciones de forma jerárquica y eficiente, usualmente de mayor a menor (o viceversa), para evitar comparaciones redundantes y mejorar la legibilidad del código.
+
+## **Caso Hipotético 1**
+### **Mejora de espacios de trabajo**
+
+Supongamos que la Universidad Nacional desea clasificar a sus estudiantes en tres grupos [A,B,C] para comprar sillas ergonómicas de acuerdo a tres rangos de estaturas. Para esto la empresa Sillas&Sillas* tiene tres sillas académicas que sirven para los siguientes rangos de estatura.
+
+*   Silla A: Entre 1.00 m y 1.50 m
+*   Silla B: Entre 1.50 m y 1.75 m
+*   Silla C: De 1.75 m  en adelante
+
+Creemos un algoritmo usando condicionales que nos permita saber a que categoría pertenece un estudiante de la Universidad Nacional y así poderle asignar una silla acorde a su estatura.
+
+
