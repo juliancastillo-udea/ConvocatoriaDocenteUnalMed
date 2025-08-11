@@ -71,3 +71,19 @@ Creemos un algoritmo usando condicionales que nos permita saber a que categoría
 
 Vamos a tomar datos del público:
 <p><img alt="estudiantes" height="500px" src="https://raw.githubusercontent.com/juliancastillo-udea/ConvocatoriaDocenteUnalMed/refs/heads/main/img/EstudiantesSillas.png" align="left" hspace="10px" vspace="0px"></p>
+
+
+## **Caso Hipotético 2**
+### **Descuentos en Cafetería Central – El Ágora**
+
+Supongamos que la Cafetería Central desea aplicar un criterio de descuentos para incentivar la compra de productos. Para ello se definen niveles asociados a un valor de compra en donde se asigna un descuento porcentual de acuerdo a los siguientes rangos.
+
+*   Compras inferiores a 25000. Sin descuento.
+*   Compras superiores a 25000 e inferiores a 50000. Descuento del 5%.
+*   Compras superiores a 50000 e inferiores a 100000. Descuento del 10%.
+*   Compras superiores a 100000 e inferiores a 200000. Descuento del 15%.
+*   Compras superiores a 200000. Descuento del 20%
+
+Creemos un algoritmo usando condicionales anidados usando el criterio de If-Else escalonado para solucionar el presente problema. Usar f-strings aplicando formato para visualizar los resultados. Mostrar el valor inicial y el valor con descuento más un mensaje final. 
+
+Reto: Crear una factura tipo impresora térmica de recibos para un papel de 80mm con un estimado de 60 caracteres por línea.
