@@ -70,4 +70,4 @@ Supongamos que la Universidad Nacional desea clasificar a sus estudiantes en tre
 Creemos un algoritmo usando condicionales que nos permita saber a que categoría pertenece un estudiante de la Universidad Nacional y así poderle asignar una silla acorde a su estatura.
 
 Vamos a tomar datos del público:
-<p><img alt="estudiantes" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/ConvocatoriaDocenteUnalMed/refs/heads/main/img/EstudiantesSillas.png" align="left" hspace="10px" vspace="0px"></p>
+<p><img alt="estudiantes" height="500px" src="https://raw.githubusercontent.com/juliancastillo-udea/ConvocatoriaDocenteUnalMed/refs/heads/main/img/EstudiantesSillas.png" align="left" hspace="10px" vspace="0px"></p>
