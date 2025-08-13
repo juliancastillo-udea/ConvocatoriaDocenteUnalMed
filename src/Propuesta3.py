@@ -1,8 +1,7 @@
-from datetime import datetime
-import pytz
-
 print('Bienvenido a la Cafetería Central'.center(60))
-compra = int(input('Ingresar el valor comprado: '))
+print('Ingresa el valor comprado: ')
+compra = int(input('--> '))
+print('Comprado-->', compra)
 print('*'*60 + '\n') 
 
 if compra > 200_000:
@@ -21,6 +20,15 @@ else:
 subtotal = compra
 valor_descuento = compra - (compra * descuento)
 total = compra * descuento
+print(f'Subtotal--> ${subtotal:,.0f}')
+print(f'Descuento--> ${valor_descuento:,.0f}')
+print(f'Total a Pagar--> ${total:,.0f}')
+
+
+# Solucion Reto
+
+from datetime import datetime
+import pytz
 # Captura de fecha
 # Zona horaria de Bogotá
 bogota_tz = pytz.timezone('America/Bogota')
